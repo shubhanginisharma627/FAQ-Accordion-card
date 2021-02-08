@@ -75,7 +75,7 @@
 }
 @media(max-width:375px){
     #woman{
-        content:url("images/illustration-woman-online-mobile.svg");
+        content:url("illustration-woman-online-mobile.svg");
         top: 0%;
       position:absolute;
      
@@ -84,7 +84,7 @@
       text-align: center;
     }
     #pattern{
-        content:url("images/bg-pattern-mobile.svg");
+        content:url("bg-pattern-mobile.svg");
       postion:absoute  ;
      
     }
